@@ -29,37 +29,27 @@ p{
 }
 .contact{
     color:white;
-    border: white solid 1px;
-    border-radius: 1%;
     position: relative;
     text-align: center;
 }
 .aboutMe{
     color: white;
-    border: white solid 1px;
-    border-radius: 1%;
 }
 .carousel{
-    border: white solid 1px;
-    border-radius: 1%;
     top: 0%;
-    left: 20%;
+    left: 0%;
 }
 
 .footer{
     color: white;
-    border: white solid 1px;
-    border-radius: 1%;
     position: relative;
 }
 
 .projects{
     color: white;
-    border: white solid 1px;
-    border-radius: 1%;
     position: relative;
-    margin: 5em 5em 5em 0.5em;
-    padding: 1.0em;
+    text-align: center;
+    top: 1em;
 }
 
 .carousel-item>img{
