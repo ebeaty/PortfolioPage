@@ -1,0 +1,67 @@
+body {
+    background: url(assets/andromeda.jpg);
+}
+
+.header{
+    color: white;
+    background: url(assets/sakura.jpg) center repeat;
+    border-radius: 10em;
+    top: 10%;
+}
+h1{    
+    font-family: 'Pacifico', sans-serif;
+    color: white;
+    text-shadow: 2px 2px black;
+    letter-spacing: -0.025em;
+    text-align: center;
+}
+h2{
+    font-family: 'Caveat', cursive;
+    letter-spacing: -0.015em;
+    color:white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+}
+p{
+    color: white;
+    font-family: 'Cuprum', sans-serif;
+    text-align: center;
+}
+.contact{
+    color:white;
+    border: white solid 1px;
+    border-radius: 1%;
+    position: relative;
+    text-align: center;
+}
+.aboutMe{
+    color: white;
+    border: white solid 1px;
+    border-radius: 1%;
+}
+.carousel{
+    border: white solid 1px;
+    border-radius: 1%;
+    top: 0%;
+    left: 20%;
+}
+
+.footer{
+    color: white;
+    border: white solid 1px;
+    border-radius: 1%;
+    position: relative;
+}
+
+.projects{
+    color: white;
+    border: white solid 1px;
+    border-radius: 1%;
+    position: relative;
+    margin: 5em 5em 5em 0.5em;
+    padding: 1.0em;
+}
+
+.carousel-item>img{
+    height: 15em;
+ }
